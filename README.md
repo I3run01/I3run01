@@ -1,4 +1,4 @@
-### Welcome to mt profile😁
+### Welcome to my profile😁
 # 💫 About me:
 I started in the programming world in September 2021, a journey that continues until today. From the day I started until now I learned a lot of technologies. I´ve made automation in Python to pages in react. Little by little I have become a better developer.
 
