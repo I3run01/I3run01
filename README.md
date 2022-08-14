@@ -1,6 +1,6 @@
-### Seja bem vindo ao meu Github 😁
-# 💫 Sobre mim:
-Comecei no mundo da programação em setembro de 2021, jornada que continua até hoje. Desde de lá, aprendi e realizei tarefas em várias tecnologias, de automação em Python até um jogo da memória em React. Minha jornada nesse universo continua de maneira constante, assim se tornando um programador full stack cada vez melhor
+### Welcome to mt profile😁
+# 💫 About me:
+I started in the programming world in September 2021, a journey that continues until today. From the day I started until now I learned a lot of technologies. I´ve made automation in Python to pages in react. Little by little I have become a better developer.
 
 
 ## 🌐 Socials:
