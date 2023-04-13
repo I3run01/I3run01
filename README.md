@@ -2,10 +2,15 @@
 # 💫 About me:
 Hi, I am happy to see you in my profile, let me talk a little about me:
 I've been working with many technologies, but, the technologies I most work are: ReactJS or ReactJS with Next, Node with NestJS, Python to make some automations and MongoDB to store datas.
+
 In this github, I put my repositories with those initial names:
+
 The main Projetics starts with: Project_
+
 The olders projects starts with: oldProject_
+
 Classes starts with: Class
+
 Some exercises that I did starts with: Exercice_ 
 
 
